@@ -26,6 +26,9 @@ gem 'figaro'
 
 gem 'devise'
 
+
+gem 'stripe'
+
 gem 'twitter-bootstrap-rails'
 
 gem 'devise-bootstrap-views'
